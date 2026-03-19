@@ -33,7 +33,7 @@ Passwords are not stored in plain text, but are encrypted using the SHA-256 algo
 * Copy & Paste password
 
 ## Project Structure
-src/main           - source code (Java, JavaFX)
-DB/             - database scripts
+src/main           - source code (Java, JavaFX)  
+DB/             - database scripts  
 DOCUMENTATION/  - project documentation
 
